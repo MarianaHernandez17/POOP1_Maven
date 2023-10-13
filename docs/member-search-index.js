@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.mycompany.poop1_maven","c":"POOP1_Maven","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"com.mycompany.poop1_maven","c":"POOP1_Maven","l":"POOP1_Maven()","url":"%3Cinit%3E()"}]
